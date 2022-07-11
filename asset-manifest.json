@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/omaralihussien55.github.io/dashboard1/static/css/main.e6c13ad2.css",
+    "main.js": "/omaralihussien55.github.io/dashboard1/static/js/main.be9fc92e.js",
+    "static/js/787.54ad28dd.chunk.js": "/omaralihussien55.github.io/dashboard1/static/js/787.54ad28dd.chunk.js",
+    "index.html": "/omaralihussien55.github.io/dashboard1/index.html",
+    "main.e6c13ad2.css.map": "/omaralihussien55.github.io/dashboard1/static/css/main.e6c13ad2.css.map",
+    "main.be9fc92e.js.map": "/omaralihussien55.github.io/dashboard1/static/js/main.be9fc92e.js.map",
+    "787.54ad28dd.chunk.js.map": "/omaralihussien55.github.io/dashboard1/static/js/787.54ad28dd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.be9fc92e.js"
+  ]
+}
